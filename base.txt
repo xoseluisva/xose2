@@ -9,6 +9,8 @@ acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
 acestream://78384a676407784df944243eb2f75d937fbcc253
 #EXTINF:-1 group-title="GOL MUNDIAL" tvg-id="GOL MUNDIAL HD" tvg-logo="https://i.postimg.cc/3ryZ9n8G/golmundial.png" ,Gol Mundial 3  52c8
 acestream://52c8ff01836c294caad8b8c029b53360aa16a4cd
+#EXTINF:-1 group-title="GOL MUNDIAL" tvg-id="GOL MUNDIAL HD" tvg-logo="https://i.postimg.cc/3ryZ9n8G/golmundial.png" ,Gol Mundial 3  d6d5
+acestream://d6d5775a2965b15ee405278b6a2e5a4374a80e25
 #EXTINF:-1 group-title="GOL MUNDIAL" tvg-id="GOL MUNDIAL HD" tvg-logo="https://i.postimg.cc/3ryZ9n8G/golmundial.png" ,Gol Mundial 4  5a8d
 acestream://5a8d60f4c8e558f8ae5acad7c75f455928ce0c2e
 #EXTINF:-1 group-title="GOL MUNDIAL 2" tvg-id="GOL MUNDIAL HD" tvg-logo="https://i.postimg.cc/3ryZ9n8G/golmundial.png" ,Gol Mundial 2  4af5
