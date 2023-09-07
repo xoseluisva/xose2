@@ -161,8 +161,6 @@ plugin://script.module.horus?action=play&id=f8cb9d9e3077eb3ae417b2d95a69c5f59076
 plugin://script.module.horus?action=play&id=41af6926a6010b68ba2540975761436bb077748f
 #EXTINF:-1 group-title="Otros deportes" tvg-id="Barça TV" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-barca-tv-1456.png" ,Barça 720  e336
 plugin://script.module.horus?action=play&id=e3362507e7c732b9461bd7bdc74bd054c49b3ba7
-#EXTINF:-1 group-title="Otros deportes" tvg-id="SETANTA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6gKALgnJ-yAuP-WEwXAioFZ98lGiaiOvaAh4JN4q8umxsMxiylU-meSp8jCuVfpcevcU&usqp=CAU" ,SETANTA SPORTS 1080  7206
-plugin://script.module.horus?action=play&id=72066549fbfd3f755853fe9467586b7debf01f60
 #EXTINF:-1 group-title="Otros" tvg-id="LA 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-la-1-838.png" ,La 1  02b9
 plugin://script.module.horus?action=play&id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 #EXTINF:-1 group-title="Otros" tvg-id="LA 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-la-1-838.png" ,La 1 UHD  6636
@@ -177,5 +175,3 @@ plugin://script.module.horus?action=play&id=e8eec35f4662be1af96963245bfa88fb7d02
 plugin://script.module.horus?action=play&id=5c267a00f264736c1d47c1cc3e754447ca8f770c
 #EXTINF:-1 group-title="Otros" tvg-id="TELECINCO HD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a907.png" ,Telecinco 1080  bb19
 plugin://script.module.horus?action=play&id=bb1982ae8d2d409d4ccd7a9f498042684e3532b5
-#EXTINF:-1 group-title="Otros" tvg-id="M+ #0 HD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a371.png" ,#0 M+ HD 1080  864f
-plugin://script.module.horus?action=play&id=864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
