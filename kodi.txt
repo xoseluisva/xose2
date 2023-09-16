@@ -7,6 +7,8 @@ plugin://script.module.horus?action=play&id=5789ca155323664edd293b848606688edf80
 plugin://script.module.horus?action=play&id=9dad717d99b29a05672166258a77c25b57713dd5
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" ,DAZN F1 720  e1fc
 plugin://script.module.horus?action=play&id=e1fcad9de0c782c157fde6377805c58297ab65c2
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLigaTV HD" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" ,M. LaLiga 1440P  dce1
+plugin://script.module.horus?action=play&id=dce1579e3a2e5bd29071fca8eae364f1eb3205cf
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLigaTV HD" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" ,M. LaLiga 1080P  aa82
 plugin://script.module.horus?action=play&id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLigaTV HD" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" ,M. LaLiga 1080 MultiAudio  7d8c
@@ -47,6 +49,10 @@ plugin://script.module.horus?action=play&id=99e544cddbee13798e854c1009ee7d1a93fd
 plugin://script.module.horus?action=play&id=d6cdd724a97fcf851e7ef641c28d6beb8663496e
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" ,Dazn liga f 2  4af5
 plugin://script.module.horus?action=play&id=4af5952b95d3c2e99fcdc0de2f528d3fcd73e06b
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" ,Dazn liga f 3  1629
+plugin://script.module.horus?action=play&id=162942adc047d0f78eac056effbe5bbec54a5e51
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" ,Dazn liga f 4  e454
+plugin://script.module.horus?action=play&id=e454681a152a86da504e63694f17f90d0586867d
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M.L. Campeones 1080 MultiAudio  931b
 plugin://script.module.horus?action=play&id=931b1984badcb821df7b47a66ac0835ac871b51c
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M.L. Campeones 1080 MultiAudio  0457
